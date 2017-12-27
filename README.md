@@ -97,4 +97,12 @@ each frame was processed using these steps:
 ![alt text][image6]
 
 
-Here's a [link to my video result](./output_videos/project_video.mp4) 
+Here's a [link to my video result](./output_videos/lane_out_project_video.mp4) 
+
+
+some limitations to my implementation and possible improvements -
+1. lanes are found only in non extreme saturation frames. should/could be further optimized.
+2. lanes are found mostly in specfic region of interest. major shift from mid-lane will result in errors.
+3. errors are apperant when more significant gradient is near lane lines (like the effect of strong shadow). lane lines should/should be better recognized by using pixel-based svm or similar classifier.
+4. results could/should be refined by identifying lane line color distribution and minimizing changing effects.
+
