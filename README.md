@@ -13,12 +13,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./figures/undist.png "correcting for distortions" 
-[image2]: ./figures/undist_and_warpped.png "undistortion and warpping"
-[image3]: ./figures/perspective.png "perpective"
-[image4]: ./figures/pipeline1.png "pipeline 1"
-[image5]: ./figures/pipeline2.png "pipeline 2"
-[image6]: ./figures/final.png "final result"
+[image1]: ./output_images/undist.png "correcting for distortions" 
+[image2]: ./output_images/undist_and_warpped.png "undistortion and warpping"
+[image3]: ./output_images/perspective.png "perpective"
+[image4]: ./output_images/pipeline1.png "pipeline 1"
+[image5]: ./output_images/pipeline2.png "pipeline 2"
+[image6]: ./output_images/final.png "final result"
 
 
 ### camera calibration
