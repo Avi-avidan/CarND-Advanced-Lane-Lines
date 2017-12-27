@@ -97,4 +97,4 @@ each frame was processed using these steps:
 ![alt text][image6]
 
 
-Here's a [link to my video result](./project_video.mp4) 
+Here's a [link to my video result](./output_videos/project_video.mp4) 
