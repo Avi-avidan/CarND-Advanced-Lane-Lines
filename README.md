@@ -15,9 +15,9 @@ The goals / steps of this project are the following:
 
 [image1]: ./output_images/undist.png "correcting for distortions" 
 [image2]: ./output_images/undist_and_warpped.png "undistortion and warpping"
-[image3]: ./output_images/perspective.png "perpective"
-[image4]: ./output_images/pipeline1.png "pipeline 1"
-[image5]: ./output_images/pipeline2.png "pipeline 2"
+[image3]: ./output_images/prespective.png "perpective"
+[image4]: ./output_images/pipline1.png "pipeline 1"
+[image5]: ./output_images/pipline2.png "pipeline 2"
 [image6]: ./output_images/final.png "final result"
 
 
